@@ -29,6 +29,6 @@ Please "Watch" and "Star" the page if you are having fun with Python
 
 
 # For Use/使用说明
-Simply run the .py file
+Simply run the Girls.py file
 
-运行.py 文件
+运行 Girls.py 文件
