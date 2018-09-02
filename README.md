@@ -15,3 +15,20 @@ The file will be updated for more functions.
 Small interesting Python project will be uploaded periodically.
 
 Please "Watch" and "Star" the page if you are having fun with Python
+
+
+
+
+# 自制网络爬虫
+从花椒直播平台抓取漂亮小姐姐的照片和个人信息
+
+抓取到的图片会按路径保存到本地磁盘中，更多功能会在以后的更新中上传
+
+本平台不定期上传一些自制或网上收集到的有趣Python小项目供初学者体验练习，欢迎关注！
+
+
+
+# For Use/使用说明
+Simply run the .py file
+
+运行.py 文件
